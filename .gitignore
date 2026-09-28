@@ -1,0 +1,13 @@
+# MacOS files
+.DS_Store
+
+# Compiled C executables (extensionless files)
+*
+!*/
+!*.c
+!*.h
+!*.md
+!*.pdf
+!*.docx
+!*.txt
+!.gitignore
