@@ -1,3 +1,3 @@
 
 
-# Bu Odevin butun cevaplari tamamen kod seklinde repoda bulunmaktadir .
+Bu Odevin butun cevaplari tamamen kod seklinde repoda bulunmaktadir .
