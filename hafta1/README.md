@@ -1,3 +1,6 @@
+# Hafta 1: Temel Algoritmalar ve Ödev Çözümleri
 
+Bu klasör, 1. hafta ödevlerini ve pratik çözümlerini içermektedir.
 
-# Butun soruların cevabı Pdf de bulunmakta olup kod yazılması gereken sorular ornek1.c ve ornek2.c olarak repo içindedir 
+* **Teorik/Sözel Çözümler:** Tüm soruların detaylı anlatımı ve cevapları `hafta1Cevaplar.pdf` dosyasının içerisinde yer almaktadır.
+* **Kodlama Çözümleri:** Uygulamalı kod yazılması beklenen soruların cevapları `ornek1.c` ve `ornek2.c` dosyaları olarak projeye eklenmiştir.
