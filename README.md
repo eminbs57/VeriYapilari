@@ -3,7 +3,7 @@
 Bu depo , Üniversite 'Veri Yapıları' dersi kapsamında çözülen ödevleri, örnek soruları ve  algoritma pratiklerini içermektedir.
 
 
-## 🚀 Nasıl Çalıştırılır?
+## Nasıl Çalıştırılır?
 
 Bu depodaki kodlar `C` dilinde yazılmıştır. Kodları derlemek ve çalıştırmak için sisteminizde `gcc` kurulu olmalıdır.
 
