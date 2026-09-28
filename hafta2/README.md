@@ -1,3 +1,5 @@
+# Hafta 2: Bağlı Listeler (Linked List) Pratikleri
 
+Bu klasör, 2. haftaya ait laboratuvar/ödev sorularını ve kod çözümlerini içermektedir.
 
-Bu Odevin butun cevaplari tamamen kod seklinde repoda bulunmaktadir .
+Bu haftadaki ödev tamamen kodlama pratiğine dayalı olduğu için, tüm soruların cevapları `.c` uzantılı kaynak kod dosyaları (örneğin `ornek1.c`, `ornek2.c` ... `ornek11.c`) şeklinde bu klasörde yer almaktadır.
