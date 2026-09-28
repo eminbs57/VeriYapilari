@@ -1,4 +1,4 @@
-# Hafta 1: Temel Algoritmalar ve Ödev Çözümleri
+# Hafta 1: Temel Algoritmalar 
 
 Bu klasör, 1. hafta ödevlerini ve pratik çözümlerini içermektedir.
 
