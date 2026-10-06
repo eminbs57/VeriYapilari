@@ -14,4 +14,3 @@ gcc ornek1.c -o ornek1
 ./ornek1
 ```
 
-*(Not: Derlenmiş `.exe` veya uzantısız çalıştırılabilir dosyalar yer kaplamaması adına GitHub'a yüklenmemiş, `.gitignore` ile yoksayılmıştır.)*
