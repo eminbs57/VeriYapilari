@@ -1,4 +1,4 @@
-# Veri Yapıları Dersi (Data Structures)
+# Data Structures
 
 Bu depo , Üniversite 'Veri Yapıları' dersi kapsamında çözülen ödevleri, örnek soruları ve  algoritma pratiklerini içermektedir.
 
