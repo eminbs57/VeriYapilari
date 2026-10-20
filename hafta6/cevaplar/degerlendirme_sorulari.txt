@@ -1,0 +1,21 @@
+1) 25 değeri eklenirse hangi düğümün altına yerleşir?
+Cevap: 30 düğümünün soluna (sol çocuğu olarak) yerleşir.
+Adım adım yol:
+- Kök ile karşılaştırılır: 
+     25<40 |  Sola gidilir (20).
+- 20 ile karşılaştırılır: 
+     25>20 |  Sağa gidilir (30).
+- 30 ile karşılaştırılır: 25 < 30 | 30'un solu boştur, bu nedenle 30'un sol çocuğu olarak eklenir.
+
+2) inorder() fonksiyonunda printf() ilk satıra taşınırsa hangi dolaşma elde edilir?
+
+Cevap: Preorder (Öncelikli Dolaşma) elde edilir.
+
+Inorder sırası: Sol -> Kök -> Sağ
+printf() başa alındığında sıra: Kök ->  Sol ->  Sağ haline gelir. Bu da ağaçlarda Preorder dolaşma kuralıdır.
+
+3) findMin() içinde left yerine right takip edilirse hangi değer bulunur?
+Cevap: 70 değeri bulunur (yani ağacın en büyük elemanı / findMax).
+Açıklama:
+BST kuralına göre büyük sayılar her zaman sağa eklenir. Sürekli en sağa gidildiğinde ağaçtaki en büyük değere ulaşılır:
+40 -> 60 -> 70 | daha sağda düğüm olmadığı için sonuç 70 olur.
