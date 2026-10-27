@@ -43,7 +43,7 @@ _(Windows kullanıyorsanız `hazine_agaci.exe` şeklinde çalıştırabilirsiniz
 
 ---
 
-## 🎮 Örnek Ekran Çıktıları
+##  Örnek Ekran Çıktıları
 
 ### Durum 1: Hazine Bulunduğunda
 
