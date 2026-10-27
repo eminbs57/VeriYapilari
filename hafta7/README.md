@@ -1,4 +1,4 @@
-# 🌲 Hazine Ağacı Oyunu
+#  Hazine Ağacı Oyunu
 
 İkili Arama Ağacı (Binary Search Tree - BST) veri yapısı kullanılarak C dilinde geliştirilmiş interaktif bir arama ve keşif oyunu.
 
@@ -6,7 +6,7 @@ Kullanıcı belirli bir sayıyı arayarak ağaçta kazı yapar; sayı ağaçta m
 
 ---
 
-## 🚀 Özellikler
+##  Özellikler
 
 - **İkili Arama Ağacı (BST):** Dinamik bellek yönetimi (`malloc`) ve işaretçiler (pointers) ile oluşturulmuş ağaç yapısı.
 - **Rekürsif Arama:** Aranan hazine değeri ağaç üzerinde özyinelemeli (recursive) olarak kontrol edilir.
@@ -15,7 +15,7 @@ Kullanıcı belirli bir sayıyı arayarak ağaçta kazı yapar; sayı ağaçta m
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler ve Kavramlar
+##  Kullanılan Teknolojiler ve Kavramlar
 
 - **Dil:** C
 - **Veri Yapısı:** İkili Arama Ağacı (Binary Search Tree)
@@ -27,7 +27,7 @@ Kullanıcı belirli bir sayıyı arayarak ağaçta kazı yapar; sayı ağaçta m
 
 ---
 
-## 💻 Nasıl Derlenir ve Çalıştırılır?
+##  Nasıl Derlenir ve Çalıştırılır?
 
 Projeyi GCC derleyicisi kullanarak terminal üzerinden çalıştırabilirsiniz:
 
