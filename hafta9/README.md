@@ -4,7 +4,7 @@ Bu klasör, Veri Yapıları Laboratuvarı **Hafta 9: Dengeli Arama Ağaçları (
 
 ---
 
-## 📌 İçerik ve Klasör Yapısı
+##  İçerik ve Klasör Yapısı
 
 ```text
 hafta9/
@@ -23,9 +23,9 @@ hafta9/
 
 ---
 
-## 📝 Sorular ve Uygulama Detayları
+##  Sorular ve Uygulama Detayları
 
-### 🔹 Soru 1 – AVL Ağacına Ekleme ve Tek Rotasyon
+### Soru 1 – AVL Ağacına Ekleme ve Tek Rotasyon
 * **Amaç:** Boş bir BST ağacına sırasıyla `10, 20, 30` sayılarını ekleyerek denge faktörünü ($BF = \text{Sol} - \text{Sağ}$) hesaplamak ve sınır aşıldığında ($BF = -2$) oluşan **RR (Right-Right)** dengesizliğini **Sola Tek Rotasyon (rotateLeft)** ile gidermek.
 * **Fonksiyonlar:** `createNode`, `insertBST`, `height`, `balanceFactor`, `rotateLeft`, `inorder`, `preorder`.
 
@@ -51,7 +51,7 @@ Preorder: 20 10 30
 
 ---
 
-### 🔹 Soru 2 – AVL Ağacında Dört Rotasyon Durumu
+###  Soru 2 – AVL Ağacında Dört Rotasyon Durumu
 * **Amaç:** Dört temel dengesizlik durumunu (LL, RR, LR, RL) otomatik tespit edip düzelten genel bir `insertAVL` fonksiyonu geliştirmek ve verilen bağımsız diziler üzerinde test etmek:
   * **Test A (LL):** `30, 20, 10` $\rightarrow$ Sağa Tek Rotasyon (`rotateRight`)
   * **Test B (RR):** `10, 20, 30` $\rightarrow$ Sola Tek Rotasyon (`rotateLeft`)
@@ -78,7 +78,7 @@ Test D (RL) -> Kok: 20 | Preorder: 20 10 30
 
 ---
 
-## 📚 Teorik ve Pekiştirme Soruları Özeti
+##  Teorik ve Pekiştirme Soruları Özeti
 
 * **Inorder Dolaşımı:** AVL ağaçlarında `inorder` dolaşımı (Sol - Kök - Sağ), ikili arama ağacı kuralı ($Sol < Kök < Sağ$) ve rotasyonların sıralamayı koruma garantisi sayesinde elemanları daima **küçükten büyüğe (artan sırada)** verir.
 * **2-3 Tree (2-3 Ağaçları):** `10, 20, 30` sayıları eklendiğinde düğüm 3 anahtarla taşar (overflow). Düğüm bölünür (split) ve ortanca eleman olan **`20` köke yükselir**. Sol çocuk `[10]`, sağ çocuk `[30]` olur.
