@@ -66,3 +66,14 @@ hafta10/
 | **Bu Graf İçin Sonuç**      | `A -> B -> D -> C -> E`                                                | `A -> B -> C -> E -> D`                                                  |
 
 
+### Çalıştırmak için : 
+
+cd ~/Desktop/VeriYapıları/hafta10/cevaplar
+
+# Soru 2 (BFS - Genişlik Öncelikli Arama):
+gcc soru2.c -o soru2 && ./soru2
+
+# Soru 3 (DFS - Derinlik Öncelikli Arama):
+gcc soru3.c -o soru3 && ./soru3
+
+
