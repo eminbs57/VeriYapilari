@@ -58,7 +58,7 @@ hafta10/
 | :-------------------------- | :--------------------------------------------------------------------- | :----------------------------------------------------------------------- |
 | **C Kaynak Dosyası**        | `cevaplar/soru2.c`                                                     | `cevaplar/soru3.c`                                                       |
 | **Kullanılan Veri Yapısı**  | Kuyruk (Queue - FIFO)                                                  | Yığın (Stack - LIFO) / Özyineleme                                        |
-| **Zaman Karmaşıklığı**      | $\mathcal{O}(\|V\| + \|E\|) = 5 + 5 = 10$ işlem                        | $\mathcal{O}(\|V\| + \|E\|) = 5 + 5 = 10$ işlem                          |
+| **Zaman Karmaşıklığı**      | 5 + 5 =10 işlem 0(n)                                                   | 5 + 5 = 10 işlem  O(n)                                                   |
 | **Alan Karmaşıklığı**       | $\mathcal{O}(\|V\|)$ (Kuyruk kapasitesi)                               | $\mathcal{O}(\|V\|)$ (Çağrı yığını derinliği)                            |
 | **En Kısa Yol Garantisi**   | Ağırlıksız graflarda en az kenarlı en kısa yolu garanti eder           | En kısa yol garantisi vermez                                             |
 | **Ziyaret Karakteri**       | Merkezden dışa doğru dalga dalga yayılır                               | Seçilen dal boyunca sonuna kadar dalar                                   |
