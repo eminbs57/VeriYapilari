@@ -8,10 +8,10 @@ Bu klasör, Veri Yapıları Laboratuvarı **Hafta 11: İki Parçalı Graf Analiz
 
 ```text
 hafta11/
-├── hafta11_sorular.pdf               # Laboratuvar föyü ve soru metinleri
-├── README.md                         # Hafta 11 dokümantasyonu ve detaylı analizler
+├── hafta11_sorular.pdf               
+├── README.md                        
 ├── cevaplar/
-│   ├── hafta11_cevaplar.txt          # Tüm soruların ve teorik maddelerin yazılı metin çözümleri
+│   ├── hafta11_cevaplar.txt          
 │   ├── soru1.c                       # Soru 1: Komşuluk matrisi, derece hesabı, Bipartite testi ve dinamik test
 │   ├── soru2.c                       # Soru 2: Dijkstra tablosu, rota bulma (backtrack) ve merkezi düğüm analizi
 │   └── soru3.c                       # Soru 3: Çakışma grafı, Welch-Powell renklendirme ve dinamik güncelleme
